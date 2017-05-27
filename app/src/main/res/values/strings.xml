@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TipCalculator#1293876876</string>
+    <string name="button_send">Calculate!</string>
+    <string name="price">Enter Price</string>
+    <string name="fifteen">15%</string>
+    <string name="ten">10%</string>
+    <string name="twenty">20%</string>
+    <string name="roundUp">Up</string>
+    <string name="roundDown">Down</string>
+    <string name="tip">Tip Percentage</string>
+    <string name="round">Round?</string>
+    <string name="doNotPush">DO NOT PUSH!</string>
+</resources>
